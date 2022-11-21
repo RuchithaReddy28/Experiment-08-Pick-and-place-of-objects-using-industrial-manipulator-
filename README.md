@@ -80,33 +80,19 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![output](https://github.com/RuchithaReddy28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/9.1.jpeg?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/9.2.jpeg?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/9.3.jpeg?raw=true)
 
 ### output video and screen shots of pick and place 
-
-
-
-
+![output](https://github.com/RuchithaReddy28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/9.4.jpeg?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/9.5.jpeg?raw=true)
+![output](https://github.com/RuchithaReddy28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/9.6.jpeg?raw=true)
 
 
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
